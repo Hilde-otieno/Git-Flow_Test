@@ -1,21 +1,56 @@
-#container{
-    padding: 10px;
-    margin:5%;
-    height: 800px;
-    width:1200px;
-    border:rgb(245, 225, 229);
-    border-radius:5px;
-    background-color: rgb(252, 225, 229);
+#out{
+    bottom: 50%;
+    margin-top: 10%;
+    margin-left: 20%;
+
 }
-#class{
-    padding:6%;
-    margin: 4%;
-    height: 500px;
-    border: aliceblue;
-    border-radius:40px;
-    background-color: aliceblue;
+
+
+#out1{
+    float: right;
+    margin-top: 10px;
+    width: 70%;
+    height: 10px;
+    
+
 }
-#nav1{
-    text-decoration: none;
-    color: black;
+
+
+#out2{
+    padding-right: 50%;
+    margin: right 20px;  
+
+}
+
+
+
+
+
+
+    
+
+
+#out{
+    bottom: 50%;
+    margin-top: 5%;
+    margin-left: 0%;
+    width: 1400px;
+
+}
+
+
+#out1{
+    float: right;
+    margin-top: 10px;
+    width: 70%;
+    height: 10px;
+    
+
+}
+
+
+#out2{
+    padding-right: 50%;
+    margin: right 20px;  
+
 }
